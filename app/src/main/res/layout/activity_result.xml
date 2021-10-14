@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ResultActivity"
-    android:background="@color/purple_500">
+    android:background="@drawable/result">
 
 
     <TextView
@@ -16,7 +16,7 @@
         android:layout_margin="6dp"
         android:gravity="center"
         android:textSize="35sp"
-        android:textColor="@color/outcolor"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
